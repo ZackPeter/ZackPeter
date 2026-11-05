@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZackPeter
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Responsive and Functional Websites
+- 👀 I’m interested in Web Development, Database management, Deep learning and Artificial Intelligence
+- 🌱 I’m currently learning TensorFlow
+- 💞️ I’m looking to collaborate on Responsive and Functional Websites and Deep reinforcement learning projects.
 - 📫 How to reach me zackpeter50@gmail.com
 
 <!---
